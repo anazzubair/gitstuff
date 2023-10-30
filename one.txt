@@ -8,6 +8,9 @@ five
 
 six
 
+seven
+
 eight
 
-branchA three.five
+branchA three
+branchA four
