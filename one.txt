@@ -13,3 +13,5 @@ eight
 
 branchA three
 branchA four
+
+checking pull from another branch. 
